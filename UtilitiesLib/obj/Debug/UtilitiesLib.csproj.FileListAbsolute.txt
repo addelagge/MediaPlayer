@@ -1,0 +1,14 @@
+\\vll.se\users\EG\FRLA05\Visual Studio 2017\Projects\MediaPlayer\UtilitiesLib\bin\Debug\UtilitiesLib.dll
+\\vll.se\users\EG\FRLA05\Visual Studio 2017\Projects\MediaPlayer\UtilitiesLib\bin\Debug\UtilitiesLib.pdb
+\\vll.se\users\EG\FRLA05\Visual Studio 2017\Projects\MediaPlayer\UtilitiesLib\obj\Debug\UtilitiesLib.dll
+\\vll.se\users\EG\FRLA05\Visual Studio 2017\Projects\MediaPlayer\UtilitiesLib\obj\Debug\UtilitiesLib.pdb
+C:\Users\bagge\Documents\Visual Studio 2017\Projects\MediaPlayer\UtilitiesLib\bin\Debug\UtilitiesLib.dll
+C:\Users\bagge\Documents\Visual Studio 2017\Projects\MediaPlayer\UtilitiesLib\bin\Debug\UtilitiesLib.pdb
+C:\Users\bagge\Documents\Visual Studio 2017\Projects\MediaPlayer\UtilitiesLib\obj\Debug\UtilitiesLib.csproj.CoreCompileInputs.cache
+C:\Users\bagge\Documents\Visual Studio 2017\Projects\MediaPlayer\UtilitiesLib\obj\Debug\UtilitiesLib.dll
+C:\Users\bagge\Documents\Visual Studio 2017\Projects\MediaPlayer\UtilitiesLib\obj\Debug\UtilitiesLib.pdb
+C:\Visual Studio 2017\Projects\MediaPlayer\UtilitiesLib\bin\Debug\UtilitiesLib.dll
+C:\Visual Studio 2017\Projects\MediaPlayer\UtilitiesLib\bin\Debug\UtilitiesLib.pdb
+C:\Visual Studio 2017\Projects\MediaPlayer\UtilitiesLib\obj\Debug\UtilitiesLib.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2017\Projects\MediaPlayer\UtilitiesLib\obj\Debug\UtilitiesLib.dll
+C:\Visual Studio 2017\Projects\MediaPlayer\UtilitiesLib\obj\Debug\UtilitiesLib.pdb

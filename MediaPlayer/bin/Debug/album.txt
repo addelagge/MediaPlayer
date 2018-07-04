@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMediaFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MediaFile>
+    <FileName>VID_20170912_074223.mp4</FileName>
+    <ImagePath>C:\Testmapp\VID_20170912_074223.mp4</ImagePath>
+    <AlbumId>0</AlbumId>
+    <Description>clip</Description>
+  </MediaFile>
+  <MediaFile>
+    <FileName>IMAG0014.jpg</FileName>
+    <ImagePath>c:\Users\Public\IMAG0014.jpg</ImagePath>
+    <AlbumId>0</AlbumId>
+  </MediaFile>
+</ArrayOfMediaFile>
